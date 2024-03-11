@@ -15,7 +15,7 @@ h1 {
 
 body {
   background: linear-gradient(to right, #f09090, #f0c0c0); /* Gradient background */
-  color: #333333; /* Dark gray text */
+  color: white; /* Dark gray text */
   display: flex;
   align-items: center;
   justify-content: center;
